@@ -1,1 +1,1 @@
-# -golang-generic-repository
+# gorm-generic-repository
