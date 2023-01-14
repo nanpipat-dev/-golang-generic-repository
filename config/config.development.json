@@ -1,6 +1,6 @@
 {
     "ConnectionString": "postgres://postgres:postgres@localhost:5432/repoApp?sslmode=disable",
     "Port" : ":3001",
-    "Secret": "46wdgSDGASDASGAxfvaasqwkiiijtj513S",
+    "Secret": "xxxxxxxxxxxxxxxx",
     "Expire": "60"
 }
